@@ -1,4 +1,4 @@
-👋 Hi, I'm DebasishPanda
+👋 Hi, I'm @jarknowtech
 
 - Self-taught full stack web developer.
 - I am into Web Development (MERN stack).
@@ -6,8 +6,8 @@
 - Learning backend, deployment & web security.
 - Interested in real-world projects and startups.
 
-- My website.
-- My Gmail.
+- My website: https://debasishpanda.vercel.app/
+- My Gmail: debasishpanda364@gmail.com
 
 ---
 
@@ -17,6 +17,8 @@ non-exhaustive list of things I have worked with,
 
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
@@ -29,6 +31,9 @@ non-exhaustive list of things I have worked with,
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws)
 
 ---
 
